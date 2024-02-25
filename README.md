@@ -64,7 +64,7 @@ Double-click this rule.
 
 13. The Overview panel will show your changes. Right-click each Key Management Service (TCP-In) rule and click Enable rule.
 
-![Alt text](https://github.com/Bryan-Mahadeea/Win-Firead/blob/main/3.png)
+![Alt text](https://github.com/Bryan-Mahadeea/Win-Firead/blob/main/13.png)
 
 14. Now you will see that a green checkmark appears next to the first rule indicating that the rule allowing communication is enabled. A circle with a line through it appears next to the second rule indicating that the rule blocking communication is enabled.
 
